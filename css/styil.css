@@ -112,6 +112,7 @@
    text-align: center;
    margin-top: 91px;
    margin-left: 410px;
+    font-family: 'Roboto SemiCondensed';
 
 }
 .dabr-2{
@@ -121,7 +122,7 @@
    text-align: center;
    margin-top: 91px;
    margin-left: 30px;
- font-family: 'Roboto SemiCondensed';
+    font-family: 'Roboto SemiCondensed';
 }
 .dabr-3{
     width: 257px;
@@ -130,6 +131,7 @@
    text-align: center;
    margin-top: 91px;
    margin-left: 30px;
+    font-family: 'Roboto SemiCondensed';
 }
 .dabr-4{
     width: 257px;
@@ -137,21 +139,22 @@
    background-color: #FFFFFF; 
    text-align: center;
    margin-top: 91px;
+    font-family: 'Roboto SemiCondensed';
 }
 .qartuli-1{
     padding-top: 30px;
     padding-bottom: 10px;
-font-family: "ALKBasri-Light", sans-serif;
-font-size: 20px;
+    font-size: 20px;
+     font-family: 'ALKDots';
 }
 .qartuli-2{
-    font-family: "ALK Life", sans-serif;
     font-size: 18px;
+     font-family: 'ALKDots';
 }
 .qartuli-3{
-    font-family: 'ALK Rex Bold';
     margin-left: 260px; 
     font-size: 18px;
+    font-family: "ALK Tommaso", sans-serif;
 }
 .hz-0{
 padding-bottom: 10px;

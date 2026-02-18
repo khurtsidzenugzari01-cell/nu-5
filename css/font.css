@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'ALKDots';
+    src: url('../fonts/alkdots-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alkdots-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/alkdots-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/alkdots-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/alkdots-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/alkdots-webfont.svg#alkdotsregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Roboto SemiCondensed';
+    src: url('../fonts/RobotoSemiCondensed-BlackItalic.eot');
+    src: url('../fonts/RobotoSemiCondensed-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RobotoSemiCondensed-BlackItalic.woff2') format('woff2'),
+        url('../fonts/RobotoSemiCondensed-BlackItalic.woff') format('woff'),
+        url('../fonts/RobotoSemiCondensed-BlackItalic.ttf') format('truetype'),
+        url('../fonts/RobotoSemiCondensed-BlackItalic.svg#RobotoSemiCondensed-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
