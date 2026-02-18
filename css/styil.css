@@ -130,6 +130,7 @@
    background-color: #FFFFFF; 
    text-align: center;
    margin-top: 91px;
+   margin-right: 30px;
    margin-left: 30px;
     font-family: 'Roboto SemiCondensed';
 }
@@ -139,7 +140,7 @@
    background-color: #FFFFFF; 
    text-align: center;
    margin-top: 91px;
-    font-family: 'Roboto SemiCondensed';
+   font-family: 'Roboto SemiCondensed';
 }
 .qartuli-1{
     padding-top: 30px;
