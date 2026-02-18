@@ -1,0 +1,158 @@
+.body-1{
+    width: 1920px;
+    height: 1480px;
+    background-color:#F9F8F8;
+}
+.hed-1{
+    width: 1919px;
+    height: 191px;
+    background-color:#FFFFFFE5;
+}
+.in-1{
+    display: inline-block;
+}
+.h-1{
+    font-size:38px;
+    color: #274C5B;
+    vertical-align: middle;
+    padding-top: 76px;
+    margin-right: 150px;
+}
+.imig-1{
+    vertical-align: middle;
+    padding-left: 172px;
+    padding-top: 76px;
+}
+.nav-1{
+    width: 564px;
+    height: 23px;
+    display: inline-block;
+    vertical-align: middle;
+    padding-top: 76px;
+}
+.li-1{
+    display: inline-block;
+    font-size: 23px;
+    color: #274C5B;
+    vertical-align: middle;
+    margin-left: 30px;
+
+}
+.latinuri{
+  font-family: "Yellowtail";
+  font-weight: 400;
+  font-style: normal; 
+  color: #7EB693; 
+  font-size: 36px;
+  margin-left: 260px;
+  margin-bottom: 6px;
+  margin-top: 190px;
+}
+.div-1{
+  color: #274C5B;
+  font-size: 50px;
+  padding-left:260px ;
+}
+.div-2{
+    font-size: 18px;
+    color: #525C60;
+    padding-left: 260px;
+    margin-top:  60px;
+    margin-bottom:12px ;
+}
+.icon{
+    width: 339px;
+    height: 81px;
+    background-color:#ECECEC ;
+    font-size: 20px;
+    color: #274C5B;
+    margin-left: 260px;
+    margin-bottom: 36px;
+}
+.d-1{
+    padding-left: 37px;
+    padding-top: 29px;
+    text-align: center;
+}
+.p-1{
+    width: 444px;
+    height: 60px;
+    font-size: 18px;
+    color: #525C60;
+    margin-left:350px;
+}
+.p-2{
+    width: 334px;
+    height: 81px;
+    background-color: #ECECEC;
+    text-align: center;
+    margin-left: 260px;
+}
+.p-3{
+    font-size: 20px;
+    color: #274C5B;
+    padding-top: 25px;
+}
+.p-4{
+    font-size: 18px;
+    color: #525C60;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+.f-1{
+    width: 678px;
+    height: 579px;
+    display: inline-block;
+    margin-left: 30px;
+}
+.dabr-1{
+   width: 257px;
+   height: 335px;
+   background-color: #FFFFFF; 
+   text-align: center;
+   margin-top: 91px;
+   margin-left: 410px;
+
+}
+.dabr-2{
+    width: 257px;
+   height: 335px;
+   background-color: #FFFFFF; 
+   text-align: center;
+   margin-top: 91px;
+   margin-left: 30px;
+ font-family: 'Roboto SemiCondensed';
+}
+.dabr-3{
+    width: 257px;
+   height: 335px;
+   background-color: #FFFFFF; 
+   text-align: center;
+   margin-top: 91px;
+   margin-left: 30px;
+}
+.dabr-4{
+    width: 257px;
+   height: 335px;
+   background-color: #FFFFFF; 
+   text-align: center;
+   margin-top: 91px;
+}
+.qartuli-1{
+    padding-top: 30px;
+    padding-bottom: 10px;
+font-family: "ALKBasri-Light", sans-serif;
+font-size: 20px;
+}
+.qartuli-2{
+    font-family: "ALK Life", sans-serif;
+    font-size: 18px;
+}
+.qartuli-3{
+    font-family: 'ALK Rex Bold';
+    margin-left: 260px; 
+    font-size: 18px;
+}
+.hz-0{
+padding-bottom: 10px;
+}
